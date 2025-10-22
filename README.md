@@ -122,6 +122,44 @@ Clear layouts mean fewer revisions during coding. Developers can build more accu
 ### ✅ **Enhances User Experience**
 By focusing on structure and usability first, wireframes lead to cleaner, more intuitive user interfaces.
 ---
+---
+
+## 🧭 How Wireframes Guide the Design Process and Improve Team Communication
+
+Wireframes play a vital role in the design process by serving as a **visual blueprint** for web and mobile applications. They outline the structure, layout, and flow of a product before any visual styling or coding begins.
+
+### 🎨 **Guiding the Design Process**
+Wireframes help designers:
+- **Plan layout and content placement** before moving into high-fidelity design
+- **Focus on user flow and functionality** without being distracted by colors, fonts, or images
+- **Identify usability issues early** (e.g., confusing navigation or misplaced buttons)
+- **Test and validate ideas quickly** with stakeholders and users
+
+By defining *what goes where* and *how users will interact with each element*, wireframes ensure that the final design is user-centered and well-structured.
+
+### 👥 **Improving Communication Among Team Members**
+Wireframes act as a **shared reference point** for everyone involved in the product:
+
+| Team Member | How Wireframes Help |
+|------------|---------------------|
+| **Designers** | Clearly visualize page layouts and adjust based on feedback |
+| **Developers** | Understand functionality and placement of components before coding |
+| **Product Managers** | Align features with business goals and user needs |
+| **Stakeholders/Clients** | Review and approve structure early, reducing later conflicts |
+
+### 📌 **Example**
+In a booking system project, wireframes helped the team agree on:
+- Where the **search bar**, **calendar**, and **checkout button** should be placed
+- How many steps the **booking flow** should have
+- What elements users should see **first** to prevent confusion
+
+Because everyone reviewed the wireframes before development began, the team avoided misunderstandings and rework later in the project.
+
+---
+
+Wireframes make the process **faster, clearer, and more collaborative**, ensuring that the entire team builds from the same vision.
+
+---
 
 ## 📌 Real-World Scenario: How Wireframing Prevented Usability Issues
 
